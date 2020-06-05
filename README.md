@@ -1,5 +1,9 @@
 # ULT
-Datos Proyecto SIMULACIÓN DE PELEA Diego Emilio Barrera Hernández A01366802 Clase: POO
+Datos Proyecto 
+SIMULACIÓN DE PELEA 
+Diego Emilio Barrera Hernández 
+A01366802 
+Clase: POO
 
 Descripción: 
 Esta es la cuarta entrega de la clase Programación Orientado a Objetos. 
