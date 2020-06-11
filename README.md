@@ -21,3 +21,4 @@ En el código hay una clase abstracta CHARACTER de la cual heredan otras 4 clase
 ShowInfoGame, que como nos dice el nombre del metodo es para mostrar la información del juego; de igual manera se utiliza polimorfismo 
 en este mismo metodo, ya que dependiendo de cual objeto de clase hija se llame, se mostrará diferente información del juego. 
 También hay un diagrama de clases UML que simplifica la visualizacion del código completo.
+
